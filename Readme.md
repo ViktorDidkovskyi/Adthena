@@ -12,6 +12,7 @@ The prediction on test for English:
 /Users/viktor/Jobs/Adthena/data/candidateTestSet_en.csv
 ``
 The final model, I put in folder "model" from "mlruns/1/../artifacts/Model_Save"
+But I have to remove the model due to GitHub limitations.
 
 ## Challenging
 
