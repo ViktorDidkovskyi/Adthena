@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viktor/Jobs/Adthena/mlruns/1/6ceec2f3c2694f9cbbc5f14b62149a16/artifacts
+end_time: 1611705302216
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6ceec2f3c2694f9cbbc5f14b62149a16
+run_uuid: 6ceec2f3c2694f9cbbc5f14b62149a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1611701236450
+status: 3
+tags: []
+user_id: viktor
